@@ -1,5 +1,7 @@
 # PyTorch Examples
 
+JVStone: This is forked from https://github.com/dpkingma/examples/tree/master/vae
+
 A repository showcasing examples of using [PyTorch](https://github.com/pytorch/pytorch)
 
 - MNIST Convnets
